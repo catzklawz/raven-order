@@ -310,9 +310,6 @@ h3 {
 
 h1 {
     font-size: clamp(2.8rem, 8vw, 6rem);
-    font-family: "UnifrakturCook", "Cormorant Garamond", serif;
-    letter-spacing: 0.03em;
-    line-height: 1.04;
 }
 
 h2 {
